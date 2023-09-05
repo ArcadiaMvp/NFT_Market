@@ -8,7 +8,6 @@ import { FaBars,FaWallet} from 'react-icons/fa';
 import Logo from '../assets/logo-light.png'
 import LogoBlack from '../assets/logo.png'
 
-
 const Header = () => {
 
     let NavData = [
