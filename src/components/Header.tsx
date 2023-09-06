@@ -47,6 +47,7 @@ const Header = () => {
     window.addEventListener('scroll',setFixed)
     return()=>window.removeEventListener('scroll',setFixed)
   },[])
+
   
   return (
     <div>

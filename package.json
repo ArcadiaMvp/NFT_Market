@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "dev": "node src/config.js | next dev",
     "build": "node src/config.js | next build",
     "start": "node src/config.js | next dev",
     "lint": "next lint"
